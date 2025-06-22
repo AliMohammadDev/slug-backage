@@ -23,7 +23,7 @@ class SlugGen
         $tries = 0;
         $slug = '';
 
-        for (;;) {
+        while(true) {
             if ($code == 33) {
                 $slug = $this->generator33($title);
             } elseif ($code == 8) {
