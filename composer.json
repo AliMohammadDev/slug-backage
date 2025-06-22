@@ -1,6 +1,6 @@
 {
-    "name": "wdd/slug",
-    "description": "slug creator",
+ "name": "alimohammaddev/slug",
+  "description": "Slug creator for Laravel",
     "type": "library",
     "license": "MIT",
     "minimum-stability": "dev",
