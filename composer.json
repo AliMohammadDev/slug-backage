@@ -6,6 +6,7 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=8.2",
+         "illuminate/database": "^10.0",
         "illuminate/support": "^10.0"
     },
     "autoload": {
